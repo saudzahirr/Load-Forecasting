@@ -15,7 +15,7 @@ Imagine you're tasked with predicting future energy consumption, critical for ef
 ## Usage
 
 1. **Data Preparation:**
-   - Ensure you have a data file named "household_power_consumption.txt" in the "Load_Forecasting" folder.
+   - Ensure you have a data file named ["household_power_consumption.txt"](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) in the "Load_Forecasting" folder.
    - Make sure your data file follows the expected format for successful parsing.
 
 2. **Visualization:**
